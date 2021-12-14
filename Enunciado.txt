@@ -1,0 +1,7 @@
+4. Desarrollar una aplicación para escribir un texto con limitación de caracteres,
+siguiendo estas indicaciones:
+• El número máximo de caracteres será 140.
+• Cuando se haya alcanzado el máximo de caracteres el usuario ya no podrá
+editar el texto.
+• El cuadro de texto debe permitir saltos de línea.
+Nombre del proyecto: 2.4.CaracteresLimitados
